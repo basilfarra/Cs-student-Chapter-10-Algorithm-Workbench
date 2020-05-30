@@ -2,7 +2,6 @@
 Chapter 10 - Inheritance
 
 
-
 - Algorithm Workbench - 
 
 1- Write the first line of the definition for a Poodle class. The class should extend the Dog class
@@ -23,3 +22,5 @@ public void setValue(int v)
 }
  Write a statement that may appear in a subclass that calls this method, passing 10 as
 an argument.
+
+
