@@ -1,0 +1,25 @@
+# Cs-student-Chapter-10--Algorithm-Workbench
+Chapter 10 - Inheritance
+
+
+
+- Algorithm Workbench - 
+
+1- Write the first line of the definition for a Poodle class. The class should extend the Dog class
+
+2- Look at the following code, which is the first line of a class definition:
+public class Tiger extends Felis
+ In what order will the class constructors execute?
+ 
+4- Write the statement that calls a superclass constructor and passes the arguments x, y,
+and z.
+
+
+
+5- A superclass has the following method:
+public void setValue(int v)
+{
+ value = v;
+}
+ Write a statement that may appear in a subclass that calls this method, passing 10 as
+an argument.
